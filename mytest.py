@@ -1,3 +1,5 @@
 print(hii)
 print(hello)
 print (hello Pankaj)
+print(hello Vipul)
+print(hello rahul)
